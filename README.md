@@ -2,27 +2,15 @@ Keeper App 📝
 
 A simple note-keeping application inspired by Google Keep, built with React. This app allows users to create and display notes as cards, with plans to support editing, deleting, and dynamic state management using React hooks.
 
-Demo
 
-(Optional: Add a screenshot or GIF here when your app has a visible UI)
 
 Features
 
 ✅ Display notes as cards
 ✅ Add new notes dynamically
 ✅ Learn React fundamentals: useState for managing state
+✅ Learn how to manage a component tree 
 
-Planned Features
-
-Edit existing notes
-
-Delete notes
-
-Persistent storage (localStorage or backend integration)
-
-Drag-and-drop card reordering
-
-Responsive design
 
 Tech Stack
 
